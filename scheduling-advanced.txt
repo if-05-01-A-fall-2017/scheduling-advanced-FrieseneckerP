@@ -1,0 +1,16 @@
+1.
+5 mal, wen wir die tabelle auf folie 84 betrachten
+
+2.
+	a 142,5 msec
+	b 102,5 msec
+er würde b nehmen weil er vermutet das dieser Prozzes schneller abgschlossen sein wird.
+
+3.
+bei einem CPU gebundenen prozzes der braucht länger aber muss nicht sofort dran kommen, 
+doch wenn er sein ding macht soll er nicht gestört werden.
+ein I/O gebundener prozzes ist sehr schnell abgeschlossen aber soll möglichst sofort ausgeführt werden.
+
+4.
+
+12,5 msec
